@@ -1,4 +1,4 @@
-name: getsVMess
+name: getVMess
 
 on:
   workflow_dispatch:
